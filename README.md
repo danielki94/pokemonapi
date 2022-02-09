@@ -1,2 +1,2 @@
 # pokemonapi
-Created a Pokedex using Pokemon API
+Created a Pokedex using Pokemon API with OOP
